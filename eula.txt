@@ -1,0 +1,2 @@
+#PloudOS 2.0 eula for minecraft
+eula=true
